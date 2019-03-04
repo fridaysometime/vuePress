@@ -1,0 +1,20 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "d": "bash deploy.sh"
+  },
+  "keywords": [
+    "vuePress",
+    "vue"
+  ],
+  "author": "Yu Sihong",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress-theme-reco": "^0.2.1"
+  }
+}
