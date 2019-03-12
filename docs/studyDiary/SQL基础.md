@@ -1,3 +1,16 @@
+---
+title: SQL基础 
+date: 2019-03-04
+tags: 
+- SQL
+---
+
+::: tip
+
+记录我学习SQL过程中的语法
+
+::: 
+
 # SQL基础
 
 ## SQL
@@ -59,14 +72,8 @@ sql: 数据操作语言dml，数据定义语言ddl;
    GROUP BY column_name
    HAVING aggregate_function(column_name) operator value
 
-```
----
-title: SQL基础  
-date: 2019-03-04
-tags:
-- SQL
----
-```
+
+
 
 
 

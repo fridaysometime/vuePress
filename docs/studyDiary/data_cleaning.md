@@ -1,3 +1,10 @@
+---
+title: data_cleaning
+date: 2019-03-04
+tags: 
+- 机器学习
+- 统计学
+---
 # data_cleaning
 
 ## 缺失值
@@ -143,12 +150,5 @@ plt.show()
 5. 通过正负样本的惩罚权重解决样本的不均匀
    * 对于分类中不同样本数量的类别分别赋予不同的权重，一般是小样本量类别权重高，大样本量类别权重低。sklearn中针对一些模型会有相应的操作，例如svm, class_weight='balanced'
 
-```
----
-title: data_cleaning
-date: 2019-03-04
-tags:
-- 机器学习
-- 统计学
----
-```
+
+

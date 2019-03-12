@@ -149,7 +149,7 @@ module.exports = {
       {
         text: "GitHub",
         items: [{ text: "GitHub地址", link: "https://github.com/fridaysometime" ,icon: 'reco-github'}]
-      }
+      },
       {text:"Tags",link:"/tags/",icon:"reco-tag"}
     ]
   },

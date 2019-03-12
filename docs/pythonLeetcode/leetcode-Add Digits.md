@@ -1,3 +1,11 @@
+---
+title: Add Digits
+date: 2019-03-12
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Add Digits
 
 Given a non-negative integer `num`, repeatedly add all its digits until the result has only one digit.

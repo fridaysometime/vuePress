@@ -1,3 +1,10 @@
+---
+title: Remove Element 
+date: 2019-03-12
+tags: 
+- 算法题
+- Python
+---
 # leetcode Remove Element
 
 Given an array *nums* and a value *val*, remove all instances of that value [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) and return the new length.

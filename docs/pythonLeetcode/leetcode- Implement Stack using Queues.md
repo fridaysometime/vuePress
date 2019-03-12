@@ -1,3 +1,11 @@
+---
+title: Implement Stack using Queues 
+date: 2019-03-12
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode- Implement Stack using Queues
 
 Implement the following operations of a stack using queues.

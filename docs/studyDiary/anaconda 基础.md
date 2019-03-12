@@ -1,3 +1,10 @@
+---
+title: anaconda 基础 
+date: 2019-03-12
+tags: 
+- Python
+---
+
 # anaconda 基础
 
 **install:**
