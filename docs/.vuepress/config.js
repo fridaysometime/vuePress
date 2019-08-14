@@ -55,8 +55,29 @@ module.exports = {
             "SQL基础",
             "大数据基础",
             "分布式抢锁设计",
-            "feature engineer"
-
+            "feature engineer",
+            "Nginx服务器",
+            "mysql相关",
+            "cookie和session",
+            "ES基础",
+            "Flume与kafka",
+            "hadoop与storm与spark",
+            "http和https",
+            "Linux基础",
+            "MongoDB基础",
+            "Redis基础",
+            "Post和Get",
+            "Python的filter方法",
+            "Python之generator",
+            "Python之面试",
+            "Python之常用排序算法",
+            "Python之迭代器",
+            "Python之内存回收机制",
+            "Python之爬虫",
+            "Python之提高运行效率",
+            "python3之super",
+            "python多线程",
+            "python之装饰器"
           ]
         }
       ],
@@ -110,7 +131,13 @@ module.exports = {
             "leetcode-Missing Number",
             "leetcode-Word Pattern",
             "leetcode-Nim Game",
-            "leetcode-Range Sum Query - Immutable"
+            "leetcode-Range Sum Query - Immutable",
+            "leetcode-Path Sum",
+            "leetcode-Minimum Depth of Binary Tree",
+            "leetcode-Pascal's Triangle",
+            "leetcode-Pascal's Triangle II",
+            "leetcode-Best Time to Buy and Sell Stock",
+            "leetcode-Best Time to Buy and Sell Stock II"
           ]
         }
       ],
