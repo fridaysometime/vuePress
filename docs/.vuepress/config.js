@@ -43,7 +43,7 @@ module.exports = {
       ],
 	  "/studyDiary/": [
         {
-          title: "统计学习总结",
+          title: "学习总结",
           collapsable: true,
           children: [
             "boxplot",
@@ -112,7 +112,12 @@ module.exports = {
             "leetcode-Binary Tree Level Order Traversal II",
             "leetcode-Convert Sorted Array to Binary Search Tree",
             "leetcode-Balanced Binary Tree",
-            "leetcode-happy number",
+            "leetcode-Path Sum",
+            "leetcode-Minimum Depth of Binary Tree",
+            "leetcode-Pascal's Triangle",
+            "leetcode-Pascal's Triangle II",
+            "leetcode-Best Time to Buy and Sell Stock",
+            "leetcode-Best Time to Buy and Sell Stock II",
             "leetcode-count primes",
             "leetcode-Isomorphic String",
             "leetcode-Contains Duplicate II",
@@ -132,12 +137,7 @@ module.exports = {
             "leetcode-Word Pattern",
             "leetcode-Nim Game",
             "leetcode-Range Sum Query - Immutable",
-            "leetcode-Path Sum",
-            "leetcode-Minimum Depth of Binary Tree",
-            "leetcode-Pascal's Triangle",
-            "leetcode-Pascal's Triangle II",
-            "leetcode-Best Time to Buy and Sell Stock",
-            "leetcode-Best Time to Buy and Sell Stock II"
+            "leetcode-happy number"
           ]
         }
       ],
