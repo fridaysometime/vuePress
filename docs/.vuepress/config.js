@@ -160,7 +160,7 @@ module.exports = {
             link: "/vuePress/"
           },
 		  {
-            text: "统计学习总结",
+            text: "学习总结",
             link: "/studyDiary/"
           },
           {
