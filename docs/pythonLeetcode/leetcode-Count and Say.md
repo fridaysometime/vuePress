@@ -1,3 +1,11 @@
+---
+title: Count and Say 
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Count and Say
 
 The count-and-say sequence is the sequence of integers with the first five terms as following:

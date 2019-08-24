@@ -1,3 +1,11 @@
+---
+title: happy number
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-happy number
 
 Write an algorithm to determine if a number is "happy".

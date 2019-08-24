@@ -1,3 +1,11 @@
+---
+title: Same Tree
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Same Tree
 
 Given two binary trees, write a function to check if they are the same or not.

@@ -1,3 +1,11 @@
+---
+title: Plus One
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Plus One
 
 Given a **non-empty** array of digits representing a non-negative integer, plus one to the integer.

@@ -1,3 +1,11 @@
+---
+title: two sum
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-two sum
 
 Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.

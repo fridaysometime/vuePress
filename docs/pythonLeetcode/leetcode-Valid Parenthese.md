@@ -1,3 +1,11 @@
+---
+title: Valid Parenthese
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Valid Parenthese
 
 Given a string containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.

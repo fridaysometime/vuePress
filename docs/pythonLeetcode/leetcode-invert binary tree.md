@@ -1,3 +1,11 @@
+---
+title: invert binary tree
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-invert binary tree
 
 Invert a binary tree.

@@ -1,3 +1,11 @@
+---
+title: maximan substring
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-maximan substring
 
 Given an integer array `nums`, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.

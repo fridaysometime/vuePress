@@ -1,3 +1,11 @@
+---
+title: Remove Duplicates from Sorted List
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Remove Duplicates from Sorted List
 
 Given a sorted linked list, delete all duplicates such that each element appear only *once*.

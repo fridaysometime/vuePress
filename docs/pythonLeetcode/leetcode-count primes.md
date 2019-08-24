@@ -1,3 +1,12 @@
+---
+title: count primes
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
+
 # leetcode-count primes
 
 Count the number of prime numbers less than a non-negative number, **n**.

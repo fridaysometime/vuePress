@@ -1,3 +1,11 @@
+---
+title: power of two
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-power of two
 
 Given an integer, write a function to determine if it is a power of two.

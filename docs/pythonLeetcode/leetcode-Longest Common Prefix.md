@@ -1,3 +1,11 @@
+---
+title: Longest Common Prefix
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Longest Common Prefix
 
 Write a function to find the longest common prefix string amongst an array of strings.

@@ -1,3 +1,11 @@
+---
+title: Missing Number
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Missing Number
 
 Given an array containing *n* distinct numbers taken from `0, 1, 2, ..., n`, find the one that is missing from the array.

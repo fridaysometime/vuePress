@@ -1,3 +1,11 @@
+---
+title: sysmmetric tree
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-sysmmetric tree
 
 Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).

@@ -1,3 +1,11 @@
+---
+title: Palindrome Linked List
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Palindrome Linked List
 
 Given a singly linked list, determine if it is a palindrome.

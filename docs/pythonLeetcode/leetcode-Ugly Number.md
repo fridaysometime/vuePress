@@ -1,3 +1,11 @@
+---
+title: Ugly Number
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Ugly Number
 
 Write a program to check whether a given number is an ugly number.

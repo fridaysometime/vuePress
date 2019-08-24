@@ -1,3 +1,11 @@
+---
+title: sqrtx
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-sqrtx
 
 Implement `int sqrt(int x)`.

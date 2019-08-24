@@ -1,3 +1,11 @@
+---
+title: move zeros
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-move zeros
 
 Given an array `nums`, write a function to move all `0`'s to the end of it while maintaining the relative order of the non-zero elements.

@@ -1,3 +1,11 @@
+---
+title: Palindrome Number
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Palindrome Number
 
 Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.

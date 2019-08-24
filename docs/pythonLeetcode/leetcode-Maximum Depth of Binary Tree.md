@@ -1,3 +1,11 @@
+---
+title: Maximum Depth of Binary Tree
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Maximum Depth of Binary Tree
 
 Given a binary tree, find its maximum depth.

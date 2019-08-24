@@ -1,3 +1,11 @@
+---
+title: climbing stairs 
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-climbing stairs
 
 You are climbing a stair case. It takes *n* steps to reach to the top.

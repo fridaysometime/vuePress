@@ -1,3 +1,11 @@
+---
+title: Binary Tree Paths 
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Binary Tree Paths
 
 Given a binary tree, return all root-to-leaf paths.

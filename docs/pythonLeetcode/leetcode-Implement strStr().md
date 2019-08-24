@@ -1,3 +1,11 @@
+---
+title: Implement strStr()
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Implement strStr()
 
 Implement [strStr()](http://www.cplusplus.com/reference/cstring/strstr/).

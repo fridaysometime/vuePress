@@ -1,3 +1,11 @@
+---
+title: Remove Duplicates from sorted Array
+date: 2019-03-18
+tags: 
+- 算法题
+- Python
+---
+
 # leetcode-Remove Duplicates from sorted Array
 
 Given a sorted array *nums*, remove the duplicates [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) such that each element appear only *once* and return the new length.
