@@ -1,5 +1,12 @@
 ### leetcode- Reverse String
 
+题目描述：
+
+Write a function that takes a string as input and returns the string reversed.
+
+Example:
+Given s = "hello", return "olleh".
+
 ```python
 class Solution:
     def reverseString(self, s: List[str]) -> None:

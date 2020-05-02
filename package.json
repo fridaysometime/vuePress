@@ -12,7 +12,7 @@
     "vuePress",
     "vue"
   ],
-  "author": "Yu Sihong",
+  "author": "Lin Xu",
   "license": "ISC",
   "dependencies": {
     "vuepress-theme-reco": "^0.2.1"

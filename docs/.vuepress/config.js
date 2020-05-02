@@ -169,6 +169,15 @@ module.exports = {
           ]
         }
       ],
+       "/newyear2020/": [
+        {
+          title: "2020NewYear",
+          collapsable: true,
+          children: [
+            "如愿以偿换工作啦"
+          ]
+        }
+      ],
       "/about/": [
         ["", "README"],
         ["GithubPages", "GithubPages"],
@@ -194,6 +203,11 @@ module.exports = {
           {
             text: "Python_leetcode",
             link: "/pythonLeetcode/"
+          }
+          ,
+          {
+            text: "NewYear_2020",
+            link: "/newyear2020/"
           }
         ]
       },

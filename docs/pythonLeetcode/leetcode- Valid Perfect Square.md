@@ -1,5 +1,7 @@
 ### leetcode- Valid Perfect Square
 
+​        题目描述：给出一个正整数，不使用内置函数，如sqrt()，判断这个数是不是一个数的平方。
+
 ```python
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:

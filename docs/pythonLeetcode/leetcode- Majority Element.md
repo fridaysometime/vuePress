@@ -1,5 +1,7 @@
 ### leetcode- Majority Element
 
+这里题目要求找出出现次数超过n/2的元素。
+
 ```python
 class Solution(object):
     def majorityElement(self, nums):

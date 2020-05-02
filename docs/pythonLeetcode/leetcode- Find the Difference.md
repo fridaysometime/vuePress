@@ -1,5 +1,7 @@
 ### leetcode- Find the Difference
 
+> （给两个小写字符串s和t，t是由s打乱顺序后再在随机位置添加一个字母产生的，请输出添加的字母）
+
 ```python
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
