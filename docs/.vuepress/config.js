@@ -171,7 +171,7 @@ module.exports = {
       ],
        "/newyear2020/": [
         {
-          title: "2020NewYear",
+          title: "NewYear_2020",
           collapsable: true,
           children: [
             "如愿以偿换工作啦"
