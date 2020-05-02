@@ -169,7 +169,7 @@ module.exports = {
           ]
         }
       ],
-       "/newyear2020/": [
+      "/newyear2020/": [
         {
           title: "NewYear_2020",
           collapsable: true,
@@ -203,8 +203,7 @@ module.exports = {
           {
             text: "Python_leetcode",
             link: "/pythonLeetcode/"
-          }
-          ,
+          },
           {
             text: "NewYear_2020",
             link: "/newyear2020/"
